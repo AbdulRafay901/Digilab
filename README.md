@@ -26,13 +26,16 @@ Add a screenshot of your landing page here
 
 TechnologyPurposeHTML5Page structure and semanticsCSS3Custom styling and animationsBootstrap 5Responsive grid and componentsJavaScriptInteractivity and DOM handlingSwiper.jsTouch-friendly slider/carousel
 
-📁 Project Structure
-digilab/
+## 📂 Project Structure
+
+```
+Digilab
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+```
 
 🚀 Getting Started
 
